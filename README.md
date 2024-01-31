@@ -2,14 +2,6 @@
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaveiraDev&show_icons=true&theme=merko)
-
-
-  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Cav-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="cav-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="cav-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="cav-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
   
   ##
   
