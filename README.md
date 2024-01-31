@@ -3,16 +3,6 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaveiraDev&show_icons=true&theme=merko)
 
-  <div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
-
-  <a href="https://profile-readme-generator.com">Demo</a>
-</div>
-
-<div align="center">
-  <h1>Profile Readme Generator</h1>
-  <h3>The best profile readme generator you will find!</h3>
-</div>
 
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Cav-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
