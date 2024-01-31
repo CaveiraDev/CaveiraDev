@@ -1,12 +1,7 @@
 ## <h1 align="center">Hello! I'm Marcos Alcântara 👋, a former member of the Brazilian special operations 💀, who now directs his energy towards the fascinating world of programming 👨‍💻.</h1>
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaveiraDev&show_icons=true&theme=merko)
-  <div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
-
-  <a href="https://profile-readme-generator.com">Demo</a>
-</div>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaveiraDev&show_icons=true&theme=merko)
   
   ##
   
