@@ -1,7 +1,7 @@
 ## Olá! Sou o Marcos Alcântara 👋, um ex-militar das operações especiais brasileiras 💀 que agora direciona sua energia para o fascinante mundo da programação 👨‍💻.
 
 
-  <div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaveiraDev&show_icons=true&theme=merko)</div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaveiraDev&show_icons=true&theme=merko)
 
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Cav-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
